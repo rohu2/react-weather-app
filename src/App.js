@@ -60,7 +60,6 @@ let exceptions = {
   
 'santa cruz' : '95060',
 'santa cruz bolivia' : 'Santa Cruz',
-'diss' : 'IP22',
 
 
 
